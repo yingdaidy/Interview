@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="249a7792-fdf2-49b5-bfcd-730302e771b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dy/util/Sort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="249a7792-fdf2-49b5-bfcd-730302e771b0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -683,7 +679,7 @@
       <workItem from="1500288187157" duration="5662000" />
       <workItem from="1500295748549" duration="130000" />
       <workItem from="1500299353957" duration="164000" />
-      <workItem from="1500301349573" duration="62000" />
+      <workItem from="1500301349573" duration="186000" />
     </task>
     <servers />
   </component>
@@ -714,7 +710,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6018000" />
+    <option name="totallyTimeSpent" value="6142000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
